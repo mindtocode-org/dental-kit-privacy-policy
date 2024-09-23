@@ -1,23 +1,19 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 23 September 2024
 
 ## Introduction
 
-Welcome to [Your App Name]! We are committed to protecting your privacy and ensuring your personal information is handled responsibly. This Privacy Policy outlines how we collect, use, and protect your information.
+Welcome to Dental kit! We are committed to protecting your privacy and ensuring your personal information is handled responsibly. This Privacy Policy outlines how we collect, use, and protect your information.
 
 ## Information We Collect
 
 1. **Personal Information:**
    - Name
    - Email Address
-   - Contact Information
-   - User Profile Data
 
 2. **Usage Data:**
    - Device Information
-   - IP Address
-   - Browsing Behavior
    - Interaction with the App
 
 ## How We Use Your Information
@@ -51,8 +47,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [Your Contact Information].
+If you have any questions about this Privacy Policy, please contact us at (info@mindtocode.org).
 
 ---
 
-Thank you for using [Your App Name]!
+Thank you for using Dental kit!
